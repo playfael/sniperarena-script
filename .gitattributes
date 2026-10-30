@@ -1,0 +1,4 @@
+SniperArena.luau -text
+*.md text eol=lf
+*.json text eol=lf
+loader.luau text eol=lf
